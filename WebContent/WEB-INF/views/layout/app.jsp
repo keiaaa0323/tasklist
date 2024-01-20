@@ -10,8 +10,8 @@
             <div id="header">
                 <h1>タスク管理</h1>
             </div>
-            <div id="task">
-                ${param.task}
+            <div id="content">
+                ${param.content}
             </div>
             <div id="footer">
                 by Keisuke Kitayama
